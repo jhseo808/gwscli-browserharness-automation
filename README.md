@@ -426,7 +426,7 @@ python -m venv .venv
 source .venv/bin/activate    # macOS/Linux
 
 # 의존성 설치
-pip install -r output/requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Playwright 설치
