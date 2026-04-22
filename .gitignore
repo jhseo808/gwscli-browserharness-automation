@@ -1,0 +1,20 @@
+# Media
+pic/
+browser-har.mp4
+
+# Environment
+.env
+
+# Binaries
+*.exe
+
+# Google OAuth credentials
+tools/gws/client_secret*.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
